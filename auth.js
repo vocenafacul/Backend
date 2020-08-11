@@ -7,6 +7,7 @@ module.exports = {
 
   authenticator: 'jwt',
 
+  
   session: {
     serializer: 'lucid',
     model: 'App/Models/User',
