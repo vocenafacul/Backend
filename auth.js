@@ -6,7 +6,7 @@ const Env = use('Env')
 module.exports = {
 
   authenticator: 'jwt',
-
+//teste
   session: {
     serializer: 'lucid',
     model: 'App/Models/User',
